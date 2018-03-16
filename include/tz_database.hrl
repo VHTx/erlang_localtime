@@ -557,7 +557,7 @@
       {"Navajo",{"MST","MST"},{"MDT","MDT"},-420,60,{2,sun,mar},{2,0},{1,sun,nov},{2,0}},
       {"PRC",{"CST","CST"},undef,480,0,undef,{0,0},undef,{0,0}},
       {"PST8PDT",{"PST","PST"},{"PDT","PDT"},-480,60,{2,sun,mar},{2,0},{1,sun,nov},{2,0}},
-      {"Pacific/Apia",{"WST","WST"},{"WSDT","WSDT"},780,1,{last,sun,sep},{3,0},{1,sun,apr},{4,0}},
+      {"Pacific/Apia",{"WST","WST"},{"WSDT","WSDT"},780,60,{last,sun,sep},{3,0},{1,sun,apr},{4,0}},
       {"Pacific/Auckland",{"NZST","NZST"},{"NZDT","NZDT"},720,60,{last,sun,sep},{2,0},{1,sun,apr},{3,0}},
       {"Pacific/Chatham",{"CHAST","CHAST"},{"CHADT","CHADT"},765,60,{last,sun,sep},{2,45},{1,sun,apr},{3,45}},
       {"Pacific/Chuuk",{"CHUT","CHUT"},undef,600,0,undef,{0,0},undef,{0,0}},
